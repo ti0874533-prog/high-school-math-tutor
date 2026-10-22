@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "status": "unconfigured",
+  "private_config_file": null,
+  "local_root": null,
+  "preferred_primary": "google-drive",
+  "primary_storage": null,
+  "drive_root_id": null,
+  "drive_root_url": null,
+  "student_index": {
+    "file_id": null,
+    "url": null,
+    "sheet_name": "学生总索引",
+    "key_fields": [
+      "学生编号",
+      "科目"
+    ]
+  },
+  "local_workspace_config": null,
+  "automatic_sync": false,
+  "note": "公开配置不包含任何真实学生或云端定位。用户需提供自己授权的私人配置路径或档案链接；私人配置保存在仓库和Skill目录之外，不写入认证凭据。空值不表示已建立云端系统。"
+}

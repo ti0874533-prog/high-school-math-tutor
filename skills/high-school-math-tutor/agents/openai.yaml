@@ -1,0 +1,6 @@
+interface:
+  display_name: "家教备课出题助手"
+  short_description: "支持多学生、多科目的备课、真题核验、错题诊断与教学档案管理"
+
+policy:
+  allow_implicit_invocation: true

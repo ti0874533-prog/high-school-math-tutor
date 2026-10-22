@@ -1,0 +1,17 @@
+{
+  "target_total": 5,
+  "type_order": [
+    "单项选择"
+  ],
+  "require_real_sources": false,
+  "preserve_source_points": false,
+  "questions": [
+    {
+      "id": "STRUCTURE-DEMO-1",
+      "type": "单项选择",
+      "points": 5,
+      "source_kind": "原创"
+    }
+  ],
+  "note": "纯结构示例，没有真实题干、学生信息或题源；校验通过不等于完成命题。"
+}

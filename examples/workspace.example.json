@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "workspace_root": ".",
+  "paths": {
+    "student_materials": "./01_学生本地资料",
+    "question_bank": "./02_通用题库与试卷",
+    "teaching_materials": "./03_教学课件与讲义",
+    "generated": "./04_生成文件",
+    "temporary": "./05_临时工作区",
+    "indexes": "./06_索引与配置",
+    "backups": "./07_备份"
+  },
+  "catalog": "./06_索引与配置/local-file-index.jsonl",
+  "history_roots": [],
+  "cloud_primary": false,
+  "automatic_sync": false,
+  "user_output_override": true,
+  "note": "仅为示例，不会创建目录。相对路径以配置文件所在目录为基准；复制到自选私人工作区后再使用。索引不存在时只做有界定位，不假装索引已建立。"
+}

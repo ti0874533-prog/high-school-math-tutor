@@ -1,0 +1,31 @@
+{
+  "candidate_version": "0.1.0-beta",
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "offline_tests": 16,
+  "offline_tests_passed": 16,
+  "privacy_scan_passed": true,
+  "private_paths_and_drive_ids_removed": true,
+  "cloud_status": "unconfigured",
+  "student_archives_included": false,
+  "third_party_teaching_files_included": false,
+  "skill_files": 21,
+  "unchanged_skill_files": 16,
+  "changed_skill_files": [
+    "SKILL.md",
+    "references/archive-locations.json",
+    "references/archive-rules.md",
+    "references/local-storage.json",
+    "references/local-storage.md"
+  ],
+  "structural_checker_unchanged": true,
+  "local_links_checked": true,
+  "standard_skill_validator": "not_run: PyYAML not available; actual simple frontmatter and links checked instead",
+  "limits": [
+    "Offline package validation only; not a new-user host invocation test.",
+    "No cloud read or write test; user must connect own tools.",
+    "No full lecture, exam, or student record generated in release tests.",
+    "License remains for author to choose; no LICENSE included."
+  ],
+  "github_uploaded": false
+}

@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "status": "unconfigured",
+  "workspace_config": null,
+  "note": "需要本地读写时，先使用用户本次指定位置或明确提供的外部workspace.json。未配置先确认输出目录，不猜测盘符、扫描个人目录或修改系统设置。"
+}
