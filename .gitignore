@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# 私人配置与学生资料
+.local/
+private/
+student-records/
+teaching-data/
+workspace/
+work/
+outputs/
+*.private.json
+*.local.json
+workspace.json
+local-file-index.jsonl
+migration-verification.json
+.env
+.env.*
+credentials*.json
+token*.json
+*service-account*.json
+*.pem
+*.key
